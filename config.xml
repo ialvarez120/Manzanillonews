@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.manzanillo"
+    version   = "1.0.0">
+
+<name>Manzanillo News</name>
+
+<description>
+Noticias enterese de lo mas relevante del puerto de manzanillo.
+</description>
+<icon src="icon.png" />
+<author href="http://www.puertomanzanillo.com" email="info@puertomanzanillo.com">
+Puerto Manzanillo
+</author>
+<preference name="show-splash-screen-spinner" value="false" />
+<preference name="auto-hide-splash-screen" value="false" />
+</widget>
