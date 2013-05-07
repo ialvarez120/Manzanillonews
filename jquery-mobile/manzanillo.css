@@ -67,6 +67,13 @@ font-weight: normal;
 	height: 45px;
 }
 
+.verde{
+	color: #5daba5;
+}
+
+
+
+
 /* Menu */
 
 #menu ul{
@@ -166,6 +173,8 @@ color: #464646;
 }
 
 
+
+
 /* Directorio */
 
 #proveedores ul{
@@ -186,6 +195,10 @@ color: #464646;
 text-decoration: none;
 color: #464646;
 
+}
+
+#proveedores .divisor{
+	background: #000;
 }
 
 #proveedores .btn_ir{
@@ -508,6 +521,7 @@ float: right;
 	color: #333333 /*{c-body-color}*/;
 	text-shadow: 0 /*{c-body-shadow-x}*/ 1px /*{c-body-shadow-y}*/ 0 /*{c-body-shadow-radius}*/ #ffffff /*{c-body-shadow-color}*/;
 	background: url(images/sinlineas.jpg) top center repeat ;
+	  
 }
 .ui-overlay-c {
 	background-image: none;
@@ -639,9 +653,11 @@ float: right;
 .ui-overlay-d {
 	color: #333333 /*{d-body-color}*/;
 	text-shadow: 0 /*{d-body-shadow-x}*/ 1px /*{d-body-shadow-y}*/ 0 /*{d-body-shadow-radius}*/ #ffffff /*{d-body-shadow-color}*/;
-   background: url(images/fondo_contacto.png) top center repeat ;
+   background: url(images/fondo_c.png)  left -50px repeat ;
 	
 }
+
+
 .ui-overlay-d {
 	background-image: none;
 	border-width: 0;
